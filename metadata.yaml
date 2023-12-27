@@ -1,5 +1,8 @@
 _repo: The-mighty-deep-b-and-what-we-know-of-it_72330
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72330-h/images/cover.jpg
 creator:
   author:
     agent_name: Giberne, Agnes
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47772
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72330#The-mighty-deep-b-and-what-we-know-of-it
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72330'
